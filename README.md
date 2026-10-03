@@ -92,6 +92,4 @@ the VNS and lower-bound files. No optimization experiments were run during packa
 
 Add the final paper citation and select an open-source license before publication.
 The sequencing rule follows existing deterioration-scheduling results and is not
-claimed as a new result. Organization was informed by
-[Songyiyu-hub/Project](https://github.com/Songyiyu-hub/Project); no code was copied
-from that repository.
+claimed as a new result.
