@@ -20,8 +20,7 @@ minimize makespan through task assignment and sequencing.
 
 The release retains the main benchmark workflows only. Historical initialization
 variants, tuning/sensitivity projects, result-rewriting utilities, and redundant
-convergence scripts are excluded. `VNS.py` is the former time-guarded version;
-there is no separate `VNS_time_guard.py` or VNS-SE variant.
+convergence scripts are excluded.
 
 ## Setup
 
