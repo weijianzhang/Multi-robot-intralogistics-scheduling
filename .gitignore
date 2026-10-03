@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+.env.*
+*.lic
+*.log
+*.tmp
+*.before_new_lb
+.DS_Store
+Thumbs.db
+
+# Generated study outputs. Curated publication artifacts belong in results/.
+/full_benchmark_results/
+/full_benchmark_lemma2_results/
+/convergence_parallel_results/
+/convergence_results/
+/parameter_tuning_results/
+/sensitivity_results/
+/gap_experiment_results/
+/*_gantt_*.png
